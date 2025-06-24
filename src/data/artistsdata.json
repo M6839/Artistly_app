@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Anaya Sharma",
+    "category": "Singer",
+    "priceRange": "₹10k - ₹20k",
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Rohan Das",
+    "category": "DJ",
+    "priceRange": "₹15k - ₹25k",
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Meera Iyer",
+    "category": "Dancer",
+    "priceRange": "₹8k - ₹18k",
+    "location": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Anaya",
+    "category": "Dancer",
+    "priceRange": "₹10k - ₹20k",
+    "location": "mumbai"
+  },
+  {
+    "id": 5,
+    "name": "Rohan",
+    "category": "Speaker",
+    "priceRange": "₹15k - ₹25k",
+    "location": "Mumbai"
+  },
+  {
+    "id": 6,
+    "name": "Iyer",
+    "category": "Speaker",
+    "priceRange": "₹8k - ₹18k",
+    "location": "Bangalore"
+  }
+]
